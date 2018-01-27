@@ -1,0 +1,23 @@
+{
+  "name": "product_aggregator_daemon",
+  "version": "0.0.0",
+  "description": "Daemon for products information grabbing.",
+  "license": "MIT",
+  "main": "app.js",
+  "scripts": {
+    "start": "",
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeanosis/product_aggregator_daemon.git"
+  },
+  "dependencies": {
+    "app-root-path": "^2.0.1",
+    "phantom": "^4.0.12",
+    "cheerio": "^1.0.0-rc.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.16.0"
+  }
+}
